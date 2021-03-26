@@ -1,6 +1,0 @@
-/MDK-ARM/
-# Libraries
-*.lib
-*.a
-*.la
-*.lo

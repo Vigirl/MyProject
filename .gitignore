@@ -1,0 +1,6 @@
+/TEST002/MDK-ARM/
+# Libraries
+*.lib
+*.a
+*.la
+*.lo

@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "string": "c",
+        "iolink.h": "c",
+        "usart.h": "c",
+        "spi.h": "c",
+        "uart.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "pl.h": "c",
+        "stm32f1xx_hal_uart.h": "c",
+        "array": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "compare": "c",
+        "memory": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "xmemory": "c",
+        "xtr1common": "c",
+        "initializer_list": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": false,
+    "oneDarkPro.vivid": true
+}
